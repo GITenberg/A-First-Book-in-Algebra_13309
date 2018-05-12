@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5271'
     url: http://www.gutenberg.org/2009/agents/5271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13309#A-First-Book-in-Algebra
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2004-08-27'
 gutenberg_type: Text
